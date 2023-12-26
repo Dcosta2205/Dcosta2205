@@ -1,15 +1,14 @@
 [![MasterHead](https://www.kritikalvision.ai/wp-content/uploads/2019/10/android-app-development-banner-.jpg)](https://github.com/chekeAditya?tab=repositories)
 
 
-<h1 align="center">Hi 👋, I'm Lloyd Dcosta</h1>
+<h1 align="center">Hi 👋 I'm Lloyd Dcosta</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dcosta2205" alt="Lloyd Dcosta" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dpsudarshan" target="blank"><img src="https://img.shields.io/twitter/follow/dpsudarshan?logo=twitter&style=for-the-badge" alt="Dcosta2205" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SudarshanDPrasad](https://github.com/SudarshanDPrasad)
+- 👨‍💻 All of my projects are available at [https://github.com/Dcosta2205/Dcosta2205](https://github.com/Dcosta2205/Dcosta2205)
 
-- 💬 Ask me about *Java, Kotlin, Android Studio, Jetpack Compose*
+- 💬 Ask me about *Java, Kotlin, Android Studio, Jetpack Compose, Compode MultiPlatform*
 
 - 📫 How to reach me *dcostalloyd90@gmail.com*
 
