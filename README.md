@@ -3,9 +3,6 @@
 
 <h1 align="center">Hi 👋 I'm Lloyd Dcosta</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dcosta2205" alt="Lloyd Dcosta" /></a> </p>
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/Dcosta2205/Dcosta2205](https://github.com/Dcosta2205/Dcosta2205)
 
 - 💬 Ask me about *Java, Kotlin, Android Studio, Jetpack Compose, Compode MultiPlatform*
