@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dcosta2205/Dcosta2205](https://github.com/Dcosta2205/Dcosta2205)
 
-- 💬 Ask me about *Java, Kotlin, Android Studio, Jetpack Compose, Compode MultiPlatform*
+- 💬 Ask me about *Java, Kotlin, Android Studio, Jetpack Compose, Compose MultiPlatform*
 
 - 📫 How to reach me *dcostalloyd90@gmail.com*
 
